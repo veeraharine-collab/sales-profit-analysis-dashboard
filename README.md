@@ -101,4 +101,4 @@ Analytical Thinking
 
 The Sales & Profit Analysis Dashboard converts raw transaction-level data into an interactive business intelligence report. It provides a clear view of sales, profit, quantity, discounts, regional performance, category performance, and time-based trends.
 This project demonstrates how Excel can be used to perform end-to-end data analysis and create business-focused dashboards.
-
+<img width="1468" height="622" alt="Screenshot 2026-08-29 131638" src="https://github.com/user-attachments/assets/e3015b1c-fc51-4ce8-94f2-c2a3e2352a80" />
